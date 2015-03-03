@@ -1,0 +1,15 @@
+[user]
+	name = Daniela Wellisz
+	email = daniela.wellisz@gmail.com
+[alias]
+  a = add
+  ap = add -p
+  br = branch
+  ci = commit
+  co = checkout
+  d = diff
+  fa = fetch --all --tags
+  l = log --decorate --graph
+  ls = branch
+  recent = "for-each-ref --format='%(committerdate:relative) %(refname:short)' --sort=-committerdate refs/heads/ --count 25"
+  st = status

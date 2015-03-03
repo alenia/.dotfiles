@@ -1,0 +1,2 @@
+alias tfl='tail -Fn30 log/*.log'
+
