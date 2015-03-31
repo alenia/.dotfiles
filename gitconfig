@@ -14,4 +14,4 @@
   recent = "for-each-ref --format='%(committerdate:relative) %(refname:short)' --sort=-committerdate refs/heads/ --count 25"
   st = status
 [push]
-	default = simple
+	default = current

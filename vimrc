@@ -4,7 +4,8 @@ set nocompatible
 syntax on
 filetype plugin indent on
 
-colorscheme base16-default
+colorscheme base16-railscasts
+set guifont=Monaco:h12
 
 runtime! init/**.vim
 

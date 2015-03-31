@@ -1,3 +1,4 @@
+ln -s .dotfiles/ackrc        .ackrc
 ln -s .dotfiles/alias        .alias
 ln -s .dotfiles/bash_profile .bash_profile
 ln -s .dotfiles/bashrc       .bashrc
