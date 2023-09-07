@@ -21,7 +21,7 @@
 	url = git@github.com:moll/vim-node.git
 [submodule "vim/bundle/syntastic"]
 	path = vim/bundle/syntastic
-	url = git://github.com/scrooloose/syntastic.git
+	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "vim/bundle/vim-bundler"]
 	path = vim/bundle/vim-bundler
 	url = git@github.com:tpope/vim-bundler.git
@@ -70,3 +70,5 @@
 [submodule "vim/bundle/python-syntax"]
 	path = vim/bundle/python-syntax
 	url = https://github.com/vim-python/python-syntax
+[submodule "syntastic"]
+	url = https://github.com/vim-syntastic/syntastic.git
