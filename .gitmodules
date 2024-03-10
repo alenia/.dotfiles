@@ -72,3 +72,6 @@
 	url = https://github.com/vim-python/python-syntax
 [submodule "syntastic"]
 	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "vim/bundle/vim-jsx-pretty"]
+	path = vim/bundle/vim-jsx-pretty
+	url = git@github.com:MaxMEllon/vim-jsx-pretty.git
